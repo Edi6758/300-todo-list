@@ -6,8 +6,10 @@ Este projeto foi inicializado com [Create React App](https://github.com/facebook
 
 Objetivo do projeto:
 
-- Criar um site de portifólio 100% em React para atualizar os meus meios de contato, currículo e projetos pessoais
+- Criar um sistema TODO list com React e TypeScript
+- veja o meu portifólio: <https://001-personal-react-portfolio.vercel.app/>
 - Conheça a <https://inspirationdev.com/>
+- leia meus artigos no linkedin: <https://www.linkedin.com/in/edivaldo-jr/>
 
 Como ler a nomeclatura de três digitos desse conjunto de projetos do portifólio (000):
 
@@ -22,10 +24,9 @@ Como ler a nomeclatura de três digitos desse conjunto de projetos do portifóli
 Construído usando:
 
 - Biblioteca front-end: React
-- Framework CSS: React-bootstrap
-- Biblioteca de animações CSS: Animate.css
+- Styled components
 
-No /001-personal-react-portfolio, você pode executar:
+No /300-todo-list, você pode executar:
 
 ### `npm start`
 
