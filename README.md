@@ -2,7 +2,7 @@
 
 Este projeto foi inicializado com [Create React App](https://github.com/facebook/create-react-app).
 
-<img width="1266" alt="Captura de tela 2022-06-19 às 2 18 18 PM" src="https://raw.githubusercontent.com/Edi6758/001-personal-react-portfolio/master/src/assets/img/project-preview.png">
+<img width="1266" alt="Captura de tela 2022-06-19 às 2 18 18 PM" src="https://raw.githubusercontent.com/Edi6758/300-todo-list/master/src/assets/img/project-preview.png">
 
 Objetivo do projeto:
 
